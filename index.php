@@ -57,7 +57,7 @@ function getFirstIssueNumber() {
 $first_issue_number = getFirstIssueNumber();
 
 // Set the chat_ids of your channels here
-$channel_chat_id1 = '-1002123531024'; // Your first channel's chat_id
+$channel_chat_id1 = '-1001972487612'; // Your first channel's chat_id
 
 // Check for the 'last_message_timestamp' file
 if (file_exists('last_message_timestamp')) {
