@@ -11,10 +11,10 @@ $colors_and_sizes = array('GREEN', 'SMALL', 'BIG', 'RED');
 
 // Mapping videos to values
 $video_paths = array(
-    'RED' => '/home/flashank/public_html/flashokwin/red22.MP4',
-    'GREEN' => '/home/flashank/public_html/flashokwin/green22.MP4',
-    'BIG' => '/home/flashank/public_html/flashokwin/big22.MP4',
-    'SMALL' => '/home/flashank/public_html/flashokwin/small22.MP4'
+    'RED' => 'https://raw.githubusercontent.com/k4dollar/pred/main/red22.MP4',
+    'GREEN' => 'https://raw.githubusercontent.com/k4dollar/pred/main/green22.MP4',
+    'BIG' => 'https://raw.githubusercontent.com/k4dollar/pred/main/big22.MP4',
+    'SMALL' => 'https://raw.githubusercontent.com/k4dollar/pred/main/small22.MP4'
 );
 
 // Function to get the first issue number from the API
