@@ -1,6 +1,6 @@
 <?php
 // Set the access token and Telegram API endpoint
-$token = '7864439922:AAF7ffzgJvgHu69zqe9s2jXY150IEwGoFVQ';
+$token = '7880769038:AAFq19uwAsPrVlwv1TkiW982RygcSigh3u0';
 $api_endpoint = 'https://api.telegram.org/bot' . $token;
 
 // Set the default time zone to Indian Standard Time (IST)
